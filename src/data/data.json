@@ -1,0 +1,402 @@
+[
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "You are married?",
+    "front subtext": "",
+    "back": "Tu es marié(e)? or vous êtes marié(e) ?\n",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am married",
+    "front subtext": "",
+    "back": "Je suis marié(e) or Te",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "Are you married?",
+    "front subtext": "(Academic)",
+    "back": "Etes-vous marié? or Es-tu marié(e)?",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "Are you married?",
+    "front subtext": "",
+    "back": "Est-ce que tu es marié(e)? or Est-ce que vous êtes marié(e) ? ",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "Yes I am married ",
+    "front subtext": "",
+    "back": "Oui, je suis marié(e)",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "No I'm not married",
+    "front subtext": "",
+    "back": "Non, je ne suis pas marié",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am engaged",
+    "front subtext": "",
+    "back": "je suis fiancé",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am single",
+    "front subtext": "",
+    "back": "je suis célibataire",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am separated",
+    "front subtext": "",
+    "back": "Je suis séparé",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am divorced",
+    "front subtext": "",
+    "back": "Je suis divorcé(e)",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I live with someone",
+    "front subtext": "",
+    "back": "je vis avec quelqu'un",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am in a civil partnership",
+    "front subtext": "",
+    "back": "Je suis pacsé",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I live alone",
+    "front subtext": "",
+    "back": "je vis seul",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am a widower",
+    "front subtext": "(male)",
+    "back": "Je suis veuf",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Translate",
+    "front": "I am a widow",
+    "front subtext": "(female)",
+    "back": "Je suis veuve",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Il déteste ____ frère",
+    "front subtext": "He hates his brother.",
+    "back": "Il déteste son frère",
+    "highlighted answer": "son",
+    "translated answer": "He hates his brother."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Tu as ____ crayon ?",
+    "front subtext": "Do you have your pencil?",
+    "back": "Tu as ton crayon ?",
+    "highlighted answer": "ton",
+    "translated answer": "Do you have your pencil?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "J'aime ____ chien",
+    "front subtext": "I love my dog",
+    "back": "J'aime mon chien",
+    "highlighted answer": "mon",
+    "translated answer": "I love my dog"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Elle adore ____ poupée.",
+    "front subtext": "She loves her doll",
+    "back": "Elle adore sa poupée.",
+    "highlighted answer": "sa",
+    "translated answer": "She loves her doll"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "C’est ____ café!",
+    "front subtext": "It’s my coffee!",
+    "back": "C’est mon café!",
+    "highlighted answer": "mon",
+    "translated answer": "It’s my coffee!"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où est ____ règle?",
+    "front subtext": "Where is my ruler?",
+    "back": "Où est ma règle?",
+    "highlighted answer": "ma",
+    "translated answer": "Where is my ruler?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Ce sont ____ livres.",
+    "front subtext": "Those are my books.",
+    "back": "Ce sont mes livres.",
+    "highlighted answer": "mes",
+    "translated answer": "Those are my books."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Ceci est ____ café!",
+    "front subtext": "That one is your coffee!",
+    "back": "Ceci est ton café!",
+    "highlighted answer": "ton",
+    "translated answer": "That one is your coffee!"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où est ____ voiture?",
+    "front subtext": "Where is your car?",
+    "back": "Où est ta voiture?",
+    "highlighted answer": "ta",
+    "translated answer": "Where is your car?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où sont ____ clés?",
+    "front subtext": "Where are your keys?",
+    "back": "Où sont tes clés?",
+    "highlighted answer": "tes",
+    "translated answer": "Where are your keys?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Non, c’est son café!",
+    "front subtext": "No, that’s his/her coffee!",
+    "back": "Non, c’est son café!",
+    "highlighted answer": "son",
+    "translated answer": "No, that’s his/her coffee!"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où est ____ télévision?",
+    "front subtext": "Where is his/her television?",
+    "back": "Où est sa télévision?",
+    "highlighted answer": "sa",
+    "translated answer": "Where is his/her television?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Cherche ____ clés!",
+    "front subtext": "Look for his/her keys!",
+    "back": "Cherche ses clés!",
+    "highlighted answer": "ses",
+    "translated answer": "Look for his/her keys!"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "C’est ____ café!",
+    "front subtext": "It’s our coffee!",
+    "back": "C’est notre café!",
+    "highlighted answer": "notre",
+    "translated answer": "It’s our coffee!"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Voilà ____ télévision.",
+    "front subtext": "There’s our television.",
+    "back": "Voilà notre télévision.",
+    "highlighted answer": "notre",
+    "translated answer": "There’s our television."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Est-ce que vous voudriez lire ____ livres?",
+    "front subtext": "Would you like to read our books?",
+    "back": "Est-ce que vous voudriez lire nos livres?",
+    "highlighted answer": "nos",
+    "translated answer": "Would you like to read our books?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où est ____ stylo?",
+    "front subtext": "Where is your pen?",
+    "back": "Où est votre stylo?",
+    "highlighted answer": "votre",
+    "translated answer": "Where is your pen?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Est-ce que ceci est ____ voiture?",
+    "front subtext": "Is this your car?",
+    "back": "Est-ce que ceci est votre voiture?",
+    "highlighted answer": "votre",
+    "translated answer": "Is this your car?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Ce sont ____ cafés.",
+    "front subtext": "These are your coffees.",
+    "back": "Ce sont vos cafés.",
+    "highlighted answer": "vos",
+    "translated answer": "These are your coffees."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Oui,  c’est ____ stylo.",
+    "front subtext": "Yes, it’s their pen.",
+    "back": "Oui,  c’est leur stylo.",
+    "highlighted answer": "leur",
+    "translated answer": "Yes, it’s their pen."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Où est ____ télévision?",
+    "front subtext": "Where is their television?",
+    "back": "Où est leur télévision?",
+    "highlighted answer": "leur",
+    "translated answer": "Where is their television?"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Ce sont ____ cafés.",
+    "front subtext": "These are their coffees.",
+    "back": "Ce sont leurs cafés.",
+    "highlighted answer": "leurs",
+    "translated answer": "These are their coffees."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "C’est ____ amie.",
+    "front subtext": "She’s my friend.",
+    "back": "C’est mon amie.",
+    "highlighted answer": "mon",
+    "translated answer": "She’s my friend."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Je vais à ____ école.",
+    "front subtext": "I’m going to your school.",
+    "back": "Je vais à ton école.",
+    "highlighted answer": "ton",
+    "translated answer": "I’m going to your school."
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Fill the gap",
+    "front": "Quelle est ____ idée?",
+    "front subtext": "What’s his/her idea?",
+    "back": "Quelle est son idée?",
+    "highlighted answer": "son",
+    "translated answer": "What’s his/her idea?"
+  }
+]
