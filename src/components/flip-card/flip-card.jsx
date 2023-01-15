@@ -20,7 +20,9 @@ export const FlipCard = ({ data }) => {
         isFlipped={frontIsShown}
         onClick={(e) => {
           e.preventDefault();
-          setFrontIsShown((prev) => !prev);
+          if (!e.target.dataset.button) {
+            setFrontIsShown((prev) => !prev);
+          }
         }}
       >
         <CardFace
