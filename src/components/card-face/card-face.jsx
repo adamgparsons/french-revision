@@ -34,7 +34,7 @@ export const CardFace = ({
         <Title highlightColour={highlightColour(title)}>
           {title ? title : " "}
         </Title>
-        {!isBack && (
+        {!isBack && subtext && (
           <HintButton
             data-button
             onClick={(e) => {
@@ -129,7 +129,8 @@ const TopBar = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 16px;
+  margin-top: 8px;
+  margin-bottom: 32px;
 `;
 
 const HintButton = styled.button`

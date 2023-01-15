@@ -15,7 +15,7 @@
     "title type": "Translate",
     "front": "I am married",
     "front subtext": "",
-    "back": "Je suis marié(e) or Te",
+    "back": "Je suis marié(e)",
     "highlighted answer": "",
     "translated answer": ""
   },
@@ -377,7 +377,7 @@
     "front subtext": "She’s my friend.",
     "back": "C’est mon amie.",
     "highlighted answer": "mon",
-    "translated answer": "She’s my friend."
+    "translated answer": "She’s my friend (exception)"
   },
   {
     "course": "French beginner part 2",
@@ -387,7 +387,7 @@
     "front subtext": "I’m going to your school.",
     "back": "Je vais à ton école.",
     "highlighted answer": "ton",
-    "translated answer": "I’m going to your school."
+    "translated answer": "I’m going to your school (exception)"
   },
   {
     "course": "French beginner part 2",
@@ -397,6 +397,6 @@
     "front subtext": "What’s his/her idea?",
     "back": "Quelle est son idée?",
     "highlighted answer": "son",
-    "translated answer": "What’s his/her idea?"
+    "translated answer": "What’s his/her idea? (exception)"
   }
 ]
