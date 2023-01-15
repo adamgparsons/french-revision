@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import Link from 'next/link'
-import { groupBy, StringToSlug } from "@/util";
+import { groupBy, StringToSlug } from "../utils";
 
 import courseData from "../data/data.json"
 import Head from "next/head";

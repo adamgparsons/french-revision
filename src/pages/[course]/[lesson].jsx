@@ -2,11 +2,11 @@ import { useState } from "react";
 import styled from "styled-components";
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { FlipCard, ProgressBar } from "@/components";
+import { FlipCard, ProgressBar } from "../../components";
 import SwipeableViews from "react-swipeable-views";
 import { bindKeyboard } from "react-swipeable-views-utils";
 import data from "../../data/data.json";
-import { toCourseName, groupBy, shuffle } from "@/util";
+import { toCourseName, groupBy, shuffle } from "../../utils";
 import Head from "next/head";
 
 const BindKeyboardSwipeableViews = bindKeyboard(SwipeableViews);
