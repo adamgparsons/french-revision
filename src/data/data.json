@@ -5,6 +5,7 @@
     "title type": "Translate",
     "front": "You are married?",
     "front subtext": "",
+    "front hint": "",
     "back": "Tu es marié(e)? or vous êtes marié(e) ?\n",
     "highlighted answer": "",
     "translated answer": ""
@@ -15,6 +16,7 @@
     "title type": "Translate",
     "front": "I am married",
     "front subtext": "",
+    "front hint": "",
     "back": "Je suis marié(e)",
     "highlighted answer": "",
     "translated answer": ""
@@ -25,6 +27,7 @@
     "title type": "Translate",
     "front": "Are you married?",
     "front subtext": "(Academic)",
+    "front hint": "",
     "back": "Etes-vous marié? or Es-tu marié(e)?",
     "highlighted answer": "",
     "translated answer": ""
@@ -35,6 +38,7 @@
     "title type": "Translate",
     "front": "Are you married?",
     "front subtext": "",
+    "front hint": "",
     "back": "Est-ce que tu es marié(e)? or Est-ce que vous êtes marié(e) ? ",
     "highlighted answer": "",
     "translated answer": ""
@@ -45,6 +49,7 @@
     "title type": "Translate",
     "front": "Yes I am married ",
     "front subtext": "",
+    "front hint": "",
     "back": "Oui, je suis marié(e)",
     "highlighted answer": "",
     "translated answer": ""
@@ -55,6 +60,7 @@
     "title type": "Translate",
     "front": "No I'm not married",
     "front subtext": "",
+    "front hint": "",
     "back": "Non, je ne suis pas marié",
     "highlighted answer": "",
     "translated answer": ""
@@ -65,6 +71,7 @@
     "title type": "Translate",
     "front": "I am engaged",
     "front subtext": "",
+    "front hint": "",
     "back": "je suis fiancé",
     "highlighted answer": "",
     "translated answer": ""
@@ -75,6 +82,7 @@
     "title type": "Translate",
     "front": "I am single",
     "front subtext": "",
+    "front hint": "",
     "back": "je suis célibataire",
     "highlighted answer": "",
     "translated answer": ""
@@ -85,6 +93,7 @@
     "title type": "Translate",
     "front": "I am separated",
     "front subtext": "",
+    "front hint": "",
     "back": "Je suis séparé",
     "highlighted answer": "",
     "translated answer": ""
@@ -95,6 +104,7 @@
     "title type": "Translate",
     "front": "I am divorced",
     "front subtext": "",
+    "front hint": "",
     "back": "Je suis divorcé(e)",
     "highlighted answer": "",
     "translated answer": ""
@@ -105,6 +115,7 @@
     "title type": "Translate",
     "front": "I live with someone",
     "front subtext": "",
+    "front hint": "",
     "back": "je vis avec quelqu'un",
     "highlighted answer": "",
     "translated answer": ""
@@ -115,6 +126,7 @@
     "title type": "Translate",
     "front": "I am in a civil partnership",
     "front subtext": "",
+    "front hint": "",
     "back": "Je suis pacsé",
     "highlighted answer": "",
     "translated answer": ""
@@ -125,6 +137,7 @@
     "title type": "Translate",
     "front": "I live alone",
     "front subtext": "",
+    "front hint": "",
     "back": "je vis seul",
     "highlighted answer": "",
     "translated answer": ""
@@ -135,6 +148,7 @@
     "title type": "Translate",
     "front": "I am a widower",
     "front subtext": "(male)",
+    "front hint": "",
     "back": "Je suis veuf",
     "highlighted answer": "",
     "translated answer": ""
@@ -145,6 +159,7 @@
     "title type": "Translate",
     "front": "I am a widow",
     "front subtext": "(female)",
+    "front hint": "",
     "back": "Je suis veuve",
     "highlighted answer": "",
     "translated answer": ""
@@ -155,6 +170,7 @@
     "title type": "Fill the gap",
     "front": "Il déteste ____ frère",
     "front subtext": "He hates his brother.",
+    "front hint": "",
     "back": "Il déteste son frère",
     "highlighted answer": "son",
     "translated answer": "He hates his brother."
@@ -165,6 +181,7 @@
     "title type": "Fill the gap",
     "front": "Tu as ____ crayon ?",
     "front subtext": "Do you have your pencil?",
+    "front hint": "",
     "back": "Tu as ton crayon ?",
     "highlighted answer": "ton",
     "translated answer": "Do you have your pencil?"
@@ -175,6 +192,7 @@
     "title type": "Fill the gap",
     "front": "J'aime ____ chien",
     "front subtext": "I love my dog",
+    "front hint": "",
     "back": "J'aime mon chien",
     "highlighted answer": "mon",
     "translated answer": "I love my dog"
@@ -185,6 +203,7 @@
     "title type": "Fill the gap",
     "front": "Elle adore ____ poupée.",
     "front subtext": "She loves her doll",
+    "front hint": "",
     "back": "Elle adore sa poupée.",
     "highlighted answer": "sa",
     "translated answer": "She loves her doll"
@@ -195,6 +214,7 @@
     "title type": "Fill the gap",
     "front": "C’est ____ café!",
     "front subtext": "It’s my coffee!",
+    "front hint": "",
     "back": "C’est mon café!",
     "highlighted answer": "mon",
     "translated answer": "It’s my coffee!"
@@ -205,6 +225,7 @@
     "title type": "Fill the gap",
     "front": "Où est ____ règle?",
     "front subtext": "Where is my ruler?",
+    "front hint": "",
     "back": "Où est ma règle?",
     "highlighted answer": "ma",
     "translated answer": "Where is my ruler?"
@@ -215,6 +236,7 @@
     "title type": "Fill the gap",
     "front": "Ce sont ____ livres.",
     "front subtext": "Those are my books.",
+    "front hint": "",
     "back": "Ce sont mes livres.",
     "highlighted answer": "mes",
     "translated answer": "Those are my books."
@@ -225,6 +247,7 @@
     "title type": "Fill the gap",
     "front": "Ceci est ____ café!",
     "front subtext": "That one is your coffee!",
+    "front hint": "",
     "back": "Ceci est ton café!",
     "highlighted answer": "ton",
     "translated answer": "That one is your coffee!"
@@ -235,6 +258,7 @@
     "title type": "Fill the gap",
     "front": "Où est ____ voiture?",
     "front subtext": "Where is your car?",
+    "front hint": "",
     "back": "Où est ta voiture?",
     "highlighted answer": "ta",
     "translated answer": "Where is your car?"
@@ -245,6 +269,7 @@
     "title type": "Fill the gap",
     "front": "Où sont ____ clés?",
     "front subtext": "Where are your keys?",
+    "front hint": "",
     "back": "Où sont tes clés?",
     "highlighted answer": "tes",
     "translated answer": "Where are your keys?"
@@ -253,8 +278,9 @@
     "course": "French beginner part 2",
     "lesson": 1,
     "title type": "Fill the gap",
-    "front": "Non, c’est son café!",
+    "front": "Non, c’est ____ café!",
     "front subtext": "No, that’s his/her coffee!",
+    "front hint": "",
     "back": "Non, c’est son café!",
     "highlighted answer": "son",
     "translated answer": "No, that’s his/her coffee!"
@@ -265,6 +291,7 @@
     "title type": "Fill the gap",
     "front": "Où est ____ télévision?",
     "front subtext": "Where is his/her television?",
+    "front hint": "",
     "back": "Où est sa télévision?",
     "highlighted answer": "sa",
     "translated answer": "Where is his/her television?"
@@ -275,6 +302,7 @@
     "title type": "Fill the gap",
     "front": "Cherche ____ clés!",
     "front subtext": "Look for his/her keys!",
+    "front hint": "",
     "back": "Cherche ses clés!",
     "highlighted answer": "ses",
     "translated answer": "Look for his/her keys!"
@@ -285,6 +313,7 @@
     "title type": "Fill the gap",
     "front": "C’est ____ café!",
     "front subtext": "It’s our coffee!",
+    "front hint": "",
     "back": "C’est notre café!",
     "highlighted answer": "notre",
     "translated answer": "It’s our coffee!"
@@ -295,6 +324,7 @@
     "title type": "Fill the gap",
     "front": "Voilà ____ télévision.",
     "front subtext": "There’s our television.",
+    "front hint": "",
     "back": "Voilà notre télévision.",
     "highlighted answer": "notre",
     "translated answer": "There’s our television."
@@ -305,6 +335,7 @@
     "title type": "Fill the gap",
     "front": "Est-ce que vous voudriez lire ____ livres?",
     "front subtext": "Would you like to read our books?",
+    "front hint": "",
     "back": "Est-ce que vous voudriez lire nos livres?",
     "highlighted answer": "nos",
     "translated answer": "Would you like to read our books?"
@@ -315,6 +346,7 @@
     "title type": "Fill the gap",
     "front": "Où est ____ stylo?",
     "front subtext": "Where is your pen?",
+    "front hint": "",
     "back": "Où est votre stylo?",
     "highlighted answer": "votre",
     "translated answer": "Where is your pen?"
@@ -325,6 +357,7 @@
     "title type": "Fill the gap",
     "front": "Est-ce que ceci est ____ voiture?",
     "front subtext": "Is this your car?",
+    "front hint": "",
     "back": "Est-ce que ceci est votre voiture?",
     "highlighted answer": "votre",
     "translated answer": "Is this your car?"
@@ -335,6 +368,7 @@
     "title type": "Fill the gap",
     "front": "Ce sont ____ cafés.",
     "front subtext": "These are your coffees.",
+    "front hint": "",
     "back": "Ce sont vos cafés.",
     "highlighted answer": "vos",
     "translated answer": "These are your coffees."
@@ -345,6 +379,7 @@
     "title type": "Fill the gap",
     "front": "Oui,  c’est ____ stylo.",
     "front subtext": "Yes, it’s their pen.",
+    "front hint": "",
     "back": "Oui,  c’est leur stylo.",
     "highlighted answer": "leur",
     "translated answer": "Yes, it’s their pen."
@@ -355,6 +390,7 @@
     "title type": "Fill the gap",
     "front": "Où est ____ télévision?",
     "front subtext": "Where is their television?",
+    "front hint": "",
     "back": "Où est leur télévision?",
     "highlighted answer": "leur",
     "translated answer": "Where is their television?"
@@ -365,6 +401,7 @@
     "title type": "Fill the gap",
     "front": "Ce sont ____ cafés.",
     "front subtext": "These are their coffees.",
+    "front hint": "",
     "back": "Ce sont leurs cafés.",
     "highlighted answer": "leurs",
     "translated answer": "These are their coffees."
@@ -375,6 +412,7 @@
     "title type": "Fill the gap",
     "front": "C’est ____ amie.",
     "front subtext": "She’s my friend.",
+    "front hint": "(exception)",
     "back": "C’est mon amie.",
     "highlighted answer": "mon",
     "translated answer": "She’s my friend (exception)"
@@ -385,6 +423,7 @@
     "title type": "Fill the gap",
     "front": "Je vais à ____ école.",
     "front subtext": "I’m going to your school.",
+    "front hint": "(exception)",
     "back": "Je vais à ton école.",
     "highlighted answer": "ton",
     "translated answer": "I’m going to your school (exception)"
@@ -395,6 +434,7 @@
     "title type": "Fill the gap",
     "front": "Quelle est ____ idée?",
     "front subtext": "What’s his/her idea?",
+    "front hint": "(exception)",
     "back": "Quelle est son idée?",
     "highlighted answer": "son",
     "translated answer": "What’s his/her idea? (exception)"

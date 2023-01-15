@@ -17,9 +17,7 @@ const Lesson = () => {
 
   useEffect(() => {
     if (course && lesson && dataFormatted) {
-      let courseName;
-      courseName = `${toCourseName(course)}`;
-      const courseData = dataFormatted[courseName];
+      const courseData = dataFormatted[`${toCourseName(course)}`];
       const filteredLessonData = courseData.filter(
         (item) => item.lesson === Number(lesson)
       );
@@ -27,11 +25,13 @@ const Lesson = () => {
     }
   }, []);
 
-  // const title = `${courseName} - week ${lesson}`;
+  const title = course && lesson && `${toCourseName(course)}- week ${lesson}`;
 
   return (
     <main>
-      <Head>{/* <title>{title && `${title}`}</title> */}</Head>
+      <Head>
+        <title>{title && `${title}`}</title>
+      </Head>
       <TopBar>
         <CloseLink href="/">
           <svg

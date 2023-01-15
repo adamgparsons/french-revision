@@ -9,7 +9,9 @@ export const Cards = ({ lessonData, setProgress }) => (
     <BindKeyboardSwipeableViews
       enableMouseEvents
       resistance
-      onChangeIndex={(index) => setProgress((index / lessonData.length) * 100)}
+      onChangeIndex={(index) =>
+        setProgress((index / (lessonData.length - 1)) * 100)
+      }
     >
       {lessonData.map((lessonItem, i) => (
         <FlipCard
@@ -17,6 +19,7 @@ export const Cards = ({ lessonData, setProgress }) => (
             frontTitle: lessonItem["title type"],
             frontContent: lessonItem.front,
             frontSubtext: lessonItem["front subtext"],
+            frontHint: lessonItem["front hint"],
             frontColor: "light-grey",
             backContent: lessonItem.back,
             highlightedAnswer: lessonItem["highlighted answer"],

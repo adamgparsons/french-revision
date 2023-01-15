@@ -9,6 +9,7 @@ export const FlipCard = ({ data }) => {
     frontContent,
     frontSubtext,
     frontColor,
+    frontHint,
     backContent,
     highlightedAnswer,
     translatedAnswer,
@@ -30,6 +31,7 @@ export const FlipCard = ({ data }) => {
           content={frontContent}
           color={frontColor}
           subtext={frontSubtext}
+          hint={frontHint}
         />
         <CardFace
           content={backContent}

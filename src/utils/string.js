@@ -1,5 +1,4 @@
 export function slugToString(slug) {
-    console.log("slug", slug)
     return slug.replace(/-+/g, ' ');
 }
 

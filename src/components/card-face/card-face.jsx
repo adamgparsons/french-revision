@@ -25,21 +25,21 @@ export const CardFace = ({
   content,
   color,
   subtext,
+  hint,
   highlightedAnswer,
 }) => {
-  const [showHint, setShowHint] = useState(isBack);
+  const [showHint, setShowHint] = useState(false);
   return (
     <CardWrapper isBack={isBack} color={color}>
       <TopBar>
         <Title highlightColour={highlightColour(title)}>
           {title ? title : " "}
         </Title>
-        {!isBack && subtext && (
+        {hint && !showHint && (
           <HintButton
             data-button
             onClick={(e) => {
               e.preventDefault();
-              console.log("firing");
               setShowHint(!showHint);
             }}
           >
@@ -74,7 +74,8 @@ export const CardFace = ({
       ) : (
         <Content>{content}</Content>
       )}
-      {SubtextText && showHint && <SubtextText>{subtext}</SubtextText>}
+      {SubtextText && <SubtextText>{subtext}</SubtextText>}
+      {hint && showHint && <SubtextText>{hint}</SubtextText>}
     </CardWrapper>
   );
 };
@@ -111,7 +112,7 @@ const Content = styled.p`
   line-height: 39px;
   color: #000000;
   mark {
-    background-color: var(--yellow);
+    background-color: var(--light-pink);
   }
 `;
 
