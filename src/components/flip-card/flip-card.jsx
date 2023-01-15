@@ -18,7 +18,10 @@ export const FlipCard = ({ data }) => {
     <CardHolder>
       <Card
         isFlipped={frontIsShown}
-        onClick={() => setFrontIsShown((prev) => !prev)}
+        onClick={(e) => {
+          e.preventDefault();
+          setFrontIsShown((prev) => !prev);
+        }}
       >
         <CardFace
           title={frontTitle}
