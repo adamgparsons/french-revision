@@ -39,7 +39,7 @@ export const FlipCard = ({ data }) => {
 };
 
 const CardHolder = styled.div`
-  height: 80vw;
+  height: 400px;
   width: 100%;
   margin: 40px 0;
   padding-left: 16px;
