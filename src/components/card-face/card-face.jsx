@@ -7,6 +7,8 @@ function highlightColour(cardType) {
       return "light-green";
     case "Fill the gap":
       return "light-pink";
+    case "Respond":
+      return "light-blue";
     default:
       return "white";
   }

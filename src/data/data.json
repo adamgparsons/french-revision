@@ -438,5 +438,126 @@
     "back": "Quelle est son idée?",
     "highlighted answer": "son",
     "translated answer": "What’s his/her idea? (exception)"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Comment vas-tu",
+    "front subtext": "",
+    "front hint": "How are you?",
+    "back": "Je suis bien",
+    "highlighted answer": "",
+    "translated answer": "I am well"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Comment appelle tu?",
+    "front subtext": "",
+    "front hint": "What's your name?",
+    "back": "Je M’appelle ____",
+    "highlighted answer": "",
+    "translated answer": "My name is ____"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Comment ça s’écrit?",
+    "front subtext": "",
+    "front hint": "How do you write it?",
+    "back": "(Spell your name}",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Tu as quel âge?",
+    "front subtext": "",
+    "front hint": "How old are you?",
+    "back": "J’ai 34 ans",
+    "highlighted answer": "",
+    "translated answer": "I have 34 years"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "C'est quand ton anniversaire?",
+    "front subtext": "",
+    "front hint": "When is your birthday?",
+    "back": "Mon anniversaire, c'est ____",
+    "highlighted answer": "",
+    "translated answer": "My birthday is on"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Quel est ton métier?",
+    "front subtext": "",
+    "front hint": "What is your profession?",
+    "back": "Un/une ____",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Où habites-tu?",
+    "front subtext": "",
+    "front hint": "Where do you live?",
+    "back": "J'habite à ____",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Dans quel endroit exactement?",
+    "front subtext": "",
+    "front hint": "Where exactly?",
+    "back": "____",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Tu es d'ou?",
+    "front subtext": "",
+    "front hint": "Where are you from?",
+    "back": "Je viens d'Australie",
+    "highlighted answer": "",
+    "translated answer": "I am from Australia"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Quelle est ta nationalité",
+    "front subtext": "",
+    "front hint": "What is your nationality",
+    "back": "Je suis Australien",
+    "highlighted answer": "",
+    "translated answer": "I am Australian"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 1,
+    "title type": "Respond",
+    "front": "Normalement, que est -ce que tu fais les samedis?",
+    "front subtext": "",
+    "front hint": "Normally, what do you do on Saturdays?",
+    "back": "Je suis en train de faire de l'exercise",
+    "highlighted answer": "",
+    "translated answer": "I workout"
   }
 ]
