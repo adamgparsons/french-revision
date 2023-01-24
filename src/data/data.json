@@ -702,5 +702,71 @@
     "back": "il est vingt heures moins vingts\nil est dix-neuf heures et quarante minutes",
     "highlighted answer": "",
     "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I do the shopping",
+    "front subtext": "",
+    "front hint": "",
+    "back": "Je fais les courses",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I'm vacuuming",
+    "front subtext": "",
+    "front hint": "",
+    "back": "Je passe l'aspirateur",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I am doing the dishes",
+    "front subtext": "",
+    "front hint": "",
+    "back": "Je fais la vaisselle",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I'm preparing the breakfast",
+    "front subtext": "",
+    "front hint": "",
+    "back": "Je prepare le petit déjeuner",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I'm going home",
+    "front subtext": "",
+    "front hint": "",
+    "back": "je rentre à la maison",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "I store the purchases",
+    "front subtext": "",
+    "front hint": "",
+    "back": "je range les achat",
+    "highlighted answer": "",
+    "translated answer": ""
   }
 ]
