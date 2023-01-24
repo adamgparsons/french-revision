@@ -559,5 +559,148 @@
     "back": "Je suis en train de faire de l'exercise",
     "highlighted answer": "",
     "translated answer": "I workout"
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "3:00",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est trois heures",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "9:00",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est neuf heures",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "6:00",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est six heures",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "1:30",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est une heure et demie",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "8:30",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est huit heures et demie",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "9:30",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est neuf heures et trente minutes",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "4:45",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est cinq heures moins le quart",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "4:15",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est quatre heures et quinze minutes",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "1:45",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est deux heures moins le quart",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "1:15",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est une heure et quart or il est une heure et quinze minutes",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "4:09",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est quatre heures et neuf minutes",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "14:20",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est quatorze heures et vingt minutes",
+    "highlighted answer": "",
+    "translated answer": ""
+  },
+  {
+    "course": "French beginner part 2",
+    "lesson": 2,
+    "title type": "Translate",
+    "front": "19:40",
+    "front subtext": "",
+    "front hint": "",
+    "back": "il est vingt heures moins vingts\nil est dix-neuf heures et quarante minutes",
+    "highlighted answer": "",
+    "translated answer": ""
   }
 ]
